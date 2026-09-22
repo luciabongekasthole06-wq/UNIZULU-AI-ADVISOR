@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix UNIZULU Admissions AI Assistant",
+  "description": "Interactive AI chatbot providing step-by-step guidance for University of Zululand admissions, CAO applications, document submissions, and campus queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
